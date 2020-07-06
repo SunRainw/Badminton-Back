@@ -1,5 +1,6 @@
 # “轻羽飞扬”——羽毛球网站后端
-## 简介后端部分使用node.js+express框架，数据库使用MongoDB
+## 简介
+后端部分使用node.js+express框架，数据库使用MongoDB
 
 ## Project setup
 ```
